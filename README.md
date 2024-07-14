@@ -6,13 +6,13 @@ This project is part of the Frontend Masters Bootcamp and is designed to demonst
 
 ## Screenshots
 
-![Index Page](images/index.png)
+![Index Page](images/index.png)  
 _Screenshot of the index page showcasing the introduction, embedded video, and favorite links._
 
-![Hobbies Page](images/hobbies.png)
+![Hobbies Page](images/hobbies.png)  
 _Screenshot of the hobbies page demonstrating navigation and the use of different HTML tags._
 
-![Book Chapter Page](images/bookchapter.png)
+![Book Chapter Page](images/bookchapter.png)  
 _Screenshot of the book chapter page showing the use of semantic HTML tags._
 
 ## HTML Files
