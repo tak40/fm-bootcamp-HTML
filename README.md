@@ -1,4 +1,4 @@
-# FM Bootcamp HTML Project
+# Frontend Masters Bootcamp HTML Project
 
 ## Overview
 
