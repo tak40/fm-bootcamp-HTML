@@ -1,4 +1,4 @@
-# Frontend Masters Bootcamp: HTML Project
+# Frontend Masters Bootcamp: HTML About Me Project
 
 ## Overview
 
