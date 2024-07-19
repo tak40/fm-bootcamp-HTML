@@ -1,4 +1,4 @@
-# Frontend Masters Bootcamp HTML Project
+# Frontend Masters Bootcamp: HTML Project
 
 ## Overview
 
@@ -14,6 +14,10 @@ _Screenshot of the hobbies page demonstrating navigation and the use of differen
 
 ![Book Chapter Page](images/bookchapter.png)  
 _Screenshot of the book chapter page showing the use of semantic HTML tags._
+
+## Live Site
+
+You can view the live version of the project [here](https://frontend-masters-html.netlify.app/).
 
 ## HTML Files
 
